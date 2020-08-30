@@ -1,0 +1,4 @@
+type=simple,cb=land,title=领地管理,content=§3管理领地
+text=创建(出售)领地
+text=权限设置
+text=返回菜单

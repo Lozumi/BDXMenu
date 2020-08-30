@@ -1,0 +1,7 @@
+type=simple,cb=msmenu,title=§6§l快捷菜单§r,content=§3使用菜单进行快捷操作~
+text=§3私聊,img=textures/ui/icon_crafting
+text=§3回到死亡地点,img=textures/ui/gift_square
+text=§3传送菜单,img=textures/ui/icon_rail_normal
+text=§3经济菜单,img=textures/ui/icon_best3
+text=§3领地菜单,img=textures/ui/icon_recipe_nature
+text=§3关于我们,img=textures/ui/icon_sign

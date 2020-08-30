@@ -1,0 +1,7 @@
+type=full,cb=land_perm,title=领地权限配置
+type=label,text="该选择不会读取当前配置"
+type=toggle,text=允许放置,def=false
+type=toggle,text=允许破坏,def=false
+type=toggle,text=允许攻击,def=false
+type=toggle,text=允许互动,def=false
+type=toggle,text=允许点击,def=false

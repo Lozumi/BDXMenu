@@ -1,0 +1,5 @@
+type=full,cb=homeadd,title=Homeadd
+type=label,text="添加一个家（最多5个）"
+type=dropdown,text=你的ID（写别人的也一样，是添加到你自己里面）,args=%0
+type=input,text=home名称
+

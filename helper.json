@@ -1,0 +1,15 @@
+{
+"force_enable_expplay":false,
+"fix_crash_bed_explode":false,
+"FIX_PUSH_CHEST":true,
+"FAKE_SEED":114514,
+"CMDMAP":{
+"347":"gui menu"
+},
+"Timers":[],
+"explosion_land_dist":8,
+"NO_EXPLOSION":false,
+"logItems":[],
+"banItems":[],
+"force_enable_ability":false
+}

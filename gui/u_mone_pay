@@ -1,0 +1,4 @@
+type=full,cb=mone_pay,title=我的转账
+type=label,text="我拥有%1\n当前费率§0%"
+type=dropdown,text=目标玩家,args=%0
+type=input,text=金额
