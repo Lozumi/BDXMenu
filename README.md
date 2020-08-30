@@ -52,13 +52,13 @@ A GUI menu integrating multiple instructions for BDX.
 
 ------------
 
-####配置文档  
-#####依赖项  
+#### 配置文档  
+##### 依赖项  
 - BDX服务端(`0410`及以上)  
 - DLL插件：  `BDXMoney`,`BDXTPA`,`BDXLand`,`BDXLua`（吉祥制作）(未包含)  
 - lua插件：  `CMDRedirect`,`tpagui`,`homegui`,`landgui`（吉祥制作）  
 - GUI模板：`tpagui`,`homegui`,`moneygui`（吉祥制作）  
-#####插件目录  
+##### 插件目录  
 ```
 [folder]config---服务端插件配置文件目录
 #helper.json
@@ -102,7 +102,3 @@ A GUI menu integrating multiple instructions for BDX.
 
 插件内容可自行修改、二次发布，请保留原作者信息和地址。  
 有任何建议或疑问可加入BDX讨论群：955765957[【点击加入】](点击链接加入群聊【BDX 1.14 | 咕】：https://jq.qq.com/?_wv=1027&k=5VVHRIB "【点击加入】")
-![主页面](https://www.mcbdx.com/upload/images/202004/02_03_14_84920)
-![传送菜单](https://www.mcbdx.com/upload/images/202004/02_03_44_76987 "传送菜单")
-![玩家传送](https://www.mcbdx.com/upload/images/202004/02_04_10_30256 "玩家传送")
-![关于页面](https://www.mcbdx.com/upload/images/202004/02_04_25_32362 "关于页面")
